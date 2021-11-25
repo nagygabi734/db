@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "keresztNev": "Szilveszter",
+    "vezetekNev": "Szerencsétlen",
+    "szigSzam":"245245SA",
+    "fizetes": 63000
+  },
+  {
+    "id": 2,
+    "keresztNev": "Szilvia",
+    "vezetekNev": "Szemét",
+    "szigSzam":"244145BB",
+    "fizetes": 500500
+  },
+  {
+    "id": 3,
+    "keresztNev": "Péter",
+    "vezetekNev": "Piszkos",
+    "szigSzam":"245245PP",
+    "fizetes": 182513
+  },
+  {
+    "id": 4,
+    "keresztNev": "Sándor",
+    "vezetekNev": "Sunyi",
+    "szigSzam":"241545SS",
+    "fizetes": 358165
+  }
+]
