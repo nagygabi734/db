@@ -1,4 +1,5 @@
-[
+{
+  "alkalmazottak": [
   {
     "id": 1,
     "keresztNev": "Szilveszter",
@@ -27,4 +28,8 @@
     "szigSzam":"241545SS",
     "fizetes": 358165
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+} 
+}
